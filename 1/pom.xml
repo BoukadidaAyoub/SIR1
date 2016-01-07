@@ -47,6 +47,11 @@
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>cobertura-maven-plugin</artifactId>
+				<configuration>
+					<formats>
+						<format>xml</format>
+					</formats>
+				</configuration>
 			</plugin>
 
 
@@ -68,5 +73,5 @@
 		<connection>scm:git:git://github.com/BoukadidaAyoub/SIR1.git</connection>
 		<developerConnection>scm:git:git@github.com/BoukadidaAyoub/SIR1.git</developerConnection>
 	</scm>
-	
+
 </project>
