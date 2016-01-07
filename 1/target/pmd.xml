@@ -1,3 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd version="4.2.5" timestamp="2016-01-06T17:38:49.461">
+<pmd version="4.2.5" timestamp="2016-01-06T18:02:46.718">
+<file name="W:\git\1\src\main\java\main\App.java">
+<violation beginline="10" endline="10" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code Rules" package="main" class="App" method="main" variable="i" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'i'.
+</violation>
+</file>
 </pmd>

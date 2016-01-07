@@ -63,4 +63,10 @@
 		</plugins>
 	</reporting>
 
+	<scm>
+		<url>https://github.com/BoukadidaAyoub/SIR1</url>
+		<connection>scm:git:git://github.com/BoukadidaAyoub/SIR1.git</connection>
+		<developerConnection>scm:git:git@github.com/BoukadidaAyoub/SIR1.git</developerConnection>
+	</scm>
+	
 </project>
